@@ -1,4 +1,4 @@
-package com.Rajathbharadwaj;
+package com.LearningJava;
 
 import java.util.Arrays;
 import java.util.Scanner;
