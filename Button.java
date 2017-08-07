@@ -1,4 +1,4 @@
-package com.timbuchalka;
+package com.LearningJava;
 
 /**
  * Created by Rajathbharadwaj on 4/08/2017.
