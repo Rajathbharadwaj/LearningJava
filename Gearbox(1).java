@@ -3,7 +3,7 @@ package com.timbuchalka;
 import java.util.ArrayList;
 
 /**
- * Created by dev on 2/10/2015.
+ * Created by Rajathbharadwaj on 4/08/2017.
  */
 public class Gearbox {
     private ArrayList<Gear> gears;
