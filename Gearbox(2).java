@@ -1,4 +1,5 @@
-package com.timbuchalka;
+package com.LearningJava;
+
 
 import java.util.ArrayList;
 
