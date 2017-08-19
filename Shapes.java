@@ -1,4 +1,4 @@
-package com.aide.trainer.mylibgdxgame;
+package com.Rajathbharadwaj;
 
 import com.badlogic.gdx.*;
 import com.badlogic.gdx.graphics.*;
